@@ -7,8 +7,8 @@ CREATE TABLE Customers (
 );
 
 INSERT INTO Customers VALUES
-(1,'Ujwala','Hyderabad'),
-(2,'Rishitha','Chennai'),
+(1,'Rishitha','Hyderabad'),
+(2,'Raju','Chennai'),
 (3,'John','Mumbai'),
 (4,'David','Delhi');
 
@@ -17,4 +17,4 @@ ON Customers(CustomerName);
 
 SELECT *
 FROM Customers
-WHERE CustomerName='Ujwala';
+WHERE CustomerName='Rishitha';
