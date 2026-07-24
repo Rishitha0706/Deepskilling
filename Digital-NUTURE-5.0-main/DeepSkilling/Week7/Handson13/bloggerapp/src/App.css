@@ -1,0 +1,17 @@
+.section{
+    width:30%;
+    padding:20px;
+    border-left:4px solid green;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+h2{
+    margin-top:20px;
+}
+
+h4{
+    color:#444;
+}
